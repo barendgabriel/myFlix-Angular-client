@@ -1,0 +1,23 @@
+.main-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(
+    180deg,
+    rgb(238, 132, 211),
+    rgb(214, 132, 228)
+  );
+}
+
+.button-container {
+  font-size: 20px;
+  width: 30%;
+}
+.welcome-button {
+  width: 50%;
+  margin: 15px;
+  padding: 25px;
+  width: 100%;
+}
